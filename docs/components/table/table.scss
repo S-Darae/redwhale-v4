@@ -1,3 +1,8 @@
+@use "../../foundation/typography" as *;
+@use "../../foundation/color" as *;
+@use "../../foundation/shadow" as *;
+@use "../../foundation/icon" as *;
+
 $table-border: 1px solid var(--gray-250);
 $table-left-padding: 0.938rem;
 

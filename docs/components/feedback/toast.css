@@ -1,0 +1,250 @@
+button, .title1,
+.title2,
+.subhead1,
+.subhead2,
+.body1,
+.body2,
+.label1,
+.label2,
+.caption1,
+.caption2, .display1,
+.display2,
+.headline1,
+.headline2,
+.headline3 {
+  font-family: "Pretendard Variable", Pretendard, -apple-system, BlinkMacSystemFont, system-ui, Roboto, "Helvetica Neue", "Segoe UI", "Apple SD Gothic Neo", "Noto Sans KR", "Malgun Gothic", "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+.display1.bold,
+.display2.bold,
+.headline1.bold,
+.headline2.bold,
+.headline3.bold {
+  font-family: "Pretendard Variable", Pretendard, -apple-system, BlinkMacSystemFont, system-ui, Roboto, "Helvetica Neue", "Segoe UI", "Apple SD Gothic Neo", "Noto Sans KR", "Malgun Gothic", "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", sans-serif;
+  font-size: 56px;
+  letter-spacing: -0.03em;
+  line-height: 1.286;
+  font-weight: 700;
+}
+.display1.medium,
+.display2.medium,
+.headline1.medium,
+.headline2.medium,
+.headline3.medium {
+  font-family: "Pretendard Variable", Pretendard, -apple-system, BlinkMacSystemFont, system-ui, Roboto, "Helvetica Neue", "Segoe UI", "Apple SD Gothic Neo", "Noto Sans KR", "Malgun Gothic", "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", sans-serif;
+  font-size: 56px;
+  letter-spacing: -0.03em;
+  line-height: 1.286;
+  font-weight: 500;
+}
+.display1.regular,
+.display2.regular,
+.headline1.regular,
+.headline2.regular,
+.headline3.regular {
+  font-family: "Pretendard Variable", Pretendard, -apple-system, BlinkMacSystemFont, system-ui, Roboto, "Helvetica Neue", "Segoe UI", "Apple SD Gothic Neo", "Noto Sans KR", "Malgun Gothic", "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", sans-serif;
+  font-size: 56px;
+  letter-spacing: -0.03em;
+  line-height: 1.286;
+  font-weight: 400;
+}
+
+.title1.semibold,
+.title2.semibold,
+.subhead1.semibold,
+.subhead2.semibold,
+.body1.semibold,
+.body2.semibold,
+.label1.semibold,
+.label2.semibold,
+.caption1.semibold,
+.caption2.semibold {
+  font-family: "Pretendard Variable", Pretendard, -apple-system, BlinkMacSystemFont, system-ui, Roboto, "Helvetica Neue", "Segoe UI", "Apple SD Gothic Neo", "Noto Sans KR", "Malgun Gothic", "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", sans-serif;
+  font-size: 22px;
+  letter-spacing: -0.0194em;
+  line-height: 1.364;
+  font-weight: 600;
+}
+.title1.medium,
+.title2.medium,
+.subhead1.medium,
+.subhead2.medium,
+.body1.medium,
+.body2.medium,
+.label1.medium,
+.label2.medium,
+.caption1.medium,
+.caption2.medium {
+  font-family: "Pretendard Variable", Pretendard, -apple-system, BlinkMacSystemFont, system-ui, Roboto, "Helvetica Neue", "Segoe UI", "Apple SD Gothic Neo", "Noto Sans KR", "Malgun Gothic", "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", sans-serif;
+  font-size: 22px;
+  letter-spacing: -0.0194em;
+  line-height: 1.364;
+  font-weight: 500;
+}
+.title1.regular,
+.title2.regular,
+.subhead1.regular,
+.subhead2.regular,
+.body1.regular,
+.body2.regular,
+.label1.regular,
+.label2.regular,
+.caption1.regular,
+.caption2.regular {
+  font-family: "Pretendard Variable", Pretendard, -apple-system, BlinkMacSystemFont, system-ui, Roboto, "Helvetica Neue", "Segoe UI", "Apple SD Gothic Neo", "Noto Sans KR", "Malgun Gothic", "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", sans-serif;
+  font-size: 22px;
+  letter-spacing: -0.0194em;
+  line-height: 1.364;
+  font-weight: 400;
+}
+
+body {
+  font-family: "Pretendard Variable", Pretendard, -apple-system, BlinkMacSystemFont, system-ui, Roboto, "Helvetica Neue", "Segoe UI", "Apple SD Gothic Neo", "Noto Sans KR", "Malgun Gothic", "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", sans-serif;
+  font-size: 15px;
+  letter-spacing: 0.0096em;
+  line-height: 1.6;
+  font-weight: 400;
+  color: var(--black);
+}
+body h1 {
+  font-family: "Pretendard Variable", Pretendard, -apple-system, BlinkMacSystemFont, system-ui, Roboto, "Helvetica Neue", "Segoe UI", "Apple SD Gothic Neo", "Noto Sans KR", "Malgun Gothic", "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", sans-serif;
+  font-size: 24px;
+  letter-spacing: -0.023em;
+  line-height: 1.334;
+  font-weight: 700;
+}
+body h2 {
+  font-family: "Pretendard Variable", Pretendard, -apple-system, BlinkMacSystemFont, system-ui, Roboto, "Helvetica Neue", "Segoe UI", "Apple SD Gothic Neo", "Noto Sans KR", "Malgun Gothic", "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", sans-serif;
+  font-size: 22px;
+  letter-spacing: -0.0194em;
+  line-height: 1.364;
+  font-weight: 600;
+}
+body h3 {
+  font-family: "Pretendard Variable", Pretendard, -apple-system, BlinkMacSystemFont, system-ui, Roboto, "Helvetica Neue", "Segoe UI", "Apple SD Gothic Neo", "Noto Sans KR", "Malgun Gothic", "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", sans-serif;
+  font-size: 20px;
+  letter-spacing: -0.012em;
+  line-height: 1.4;
+  font-weight: 600;
+}
+body h4 {
+  font-family: "Pretendard Variable", Pretendard, -apple-system, BlinkMacSystemFont, system-ui, Roboto, "Helvetica Neue", "Segoe UI", "Apple SD Gothic Neo", "Noto Sans KR", "Malgun Gothic", "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", sans-serif;
+  font-size: 17px;
+  letter-spacing: 0em;
+  line-height: 1.412;
+  font-weight: 600;
+}
+body h5 {
+  font-family: "Pretendard Variable", Pretendard, -apple-system, BlinkMacSystemFont, system-ui, Roboto, "Helvetica Neue", "Segoe UI", "Apple SD Gothic Neo", "Noto Sans KR", "Malgun Gothic", "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", sans-serif;
+  font-size: 16px;
+  letter-spacing: 0.0057em;
+  line-height: 1.563;
+  font-weight: 600;
+}
+body h6 {
+  font-family: "Pretendard Variable", Pretendard, -apple-system, BlinkMacSystemFont, system-ui, Roboto, "Helvetica Neue", "Segoe UI", "Apple SD Gothic Neo", "Noto Sans KR", "Malgun Gothic", "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", sans-serif;
+  font-size: 15px;
+  letter-spacing: 0.0096em;
+  line-height: 1.6;
+  font-weight: 600;
+}
+
+a {
+  text-decoration: none;
+}
+
+#toast-container {
+  position: fixed;
+  bottom: 3.75rem;
+  left: 50%;
+  transform: translateX(-50%);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 10px;
+  z-index: 100000;
+}
+#toast-container .toast {
+  font-family: "Pretendard Variable", Pretendard, -apple-system, BlinkMacSystemFont, system-ui, Roboto, "Helvetica Neue", "Segoe UI", "Apple SD Gothic Neo", "Noto Sans KR", "Malgun Gothic", "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", sans-serif;
+  font-size: 14px;
+  letter-spacing: 0.0145em;
+  line-height: 1.429;
+  font-weight: 400;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 2rem;
+  opacity: 0;
+  background-color: rgba(var(--gray-900-rgb)/0.95);
+  color: var(--white);
+  padding: 0.375rem 0.75rem;
+  border-radius: 0.625rem;
+  transform: translateY(3.75rem);
+  transition: opacity 0.3s ease, transform 0.3s ease;
+  pointer-events: none;
+  cursor: default;
+}
+#toast-container .toast.show {
+  opacity: 1;
+  transform: translateY(0);
+  pointer-events: auto;
+}
+#toast-container .toast__message {
+  flex: 1;
+}
+#toast-container .toast__actions {
+  display: flex;
+  align-items: center;
+  gap: 4px;
+}
+#toast-container .toast__actions .toast__action-btn {
+  font-family: "Pretendard Variable", Pretendard, -apple-system, BlinkMacSystemFont, system-ui, Roboto, "Helvetica Neue", "Segoe UI", "Apple SD Gothic Neo", "Noto Sans KR", "Malgun Gothic", "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", sans-serif;
+  font-size: 14px;
+  letter-spacing: 0.0145em;
+  line-height: 1.429;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  background: transparent;
+  border: none;
+  color: var(--brand-400);
+  padding: 4px 6px;
+  cursor: pointer;
+}
+#toast-container .toast__actions .toast__action-btn:disabled {
+  cursor: default;
+  opacity: 0.75;
+}
+#toast-container .toast__actions .toast__close-btn {
+  background: transparent;
+  border: none;
+  cursor: pointer;
+  padding: 4px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+#toast-container .toast__actions .toast__close-btn .icon {
+  width: 16px;
+  height: 16px;
+  color: var(--white);
+}
+#toast-container .toast__spinner {
+  width: 10px;
+  height: 10px;
+  border: 2px solid #fff;
+  border-top: 2px solid transparent;
+  border-radius: 50%;
+  animation: spin 0.8s linear infinite;
+  margin: auto;
+}
+@keyframes spin {
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+/*# sourceMappingURL=toast.css.map */

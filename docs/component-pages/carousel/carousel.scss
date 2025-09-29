@@ -1,3 +1,8 @@
+@use "../../foundation/typography" as *;
+@use "../../foundation/color" as *;
+@use "../../foundation/shadow" as *;
+@use "../../foundation/icon" as *;
+
 @use "../common/title";
 
 .carousel {
