@@ -1,0 +1,40 @@
+# ==========================
+# Dependencies
+# ==========================
+node_modules/
+.pnp
+.pnp.js
+
+# ==========================
+# Build outputs
+# ==========================
+dist/
+build/
+*.log
+
+# ==========================
+# Environment files
+# ==========================
+.env
+.env.*        # 예: .env.local, .env.production
+
+# ==========================
+# System files
+# ==========================
+.DS_Store
+Thumbs.db
+
+# ==========================
+# Editor / IDE
+# ==========================
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# ==========================
+# Optional: package manager caches
+# ==========================
+.npm
+.yarn
+.pnpm-store
