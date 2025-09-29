@@ -1,3 +1,5 @@
+@use "../foundation/typography" as *;
+
 body {
   @include typography(body1, regular);
   font-family: $font-family !important;
