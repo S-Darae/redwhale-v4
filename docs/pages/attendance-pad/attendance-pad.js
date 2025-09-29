@@ -1,5 +1,5 @@
 import "../../components/button/button.js";
-import "./attendance-pad.scss";
+import "./attendance-pad.css";
 
 /* ==========================
    📌 출석번호 입력 + 테마 토글

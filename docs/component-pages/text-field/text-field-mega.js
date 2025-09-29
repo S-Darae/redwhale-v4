@@ -1,7 +1,7 @@
 import { createTextField } from "../../components/text-field/create-text-field.js";
+import "../../components/text-field/text-field.css";
 import "../../components/text-field/text-field.js";
-import "../../components/text-field/text-field.scss";
-import "./text-field.scss";
+import "./text-field.css";
 
 /* ==========================
    헬퍼 함수

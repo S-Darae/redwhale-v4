@@ -1,7 +1,7 @@
 import { createTextField } from "../../components/text-field/create-text-field.js";
 import { initPhoneInputs } from "../../components/text-field/tel-format.js";
+import "../../components/text-field/text-field.css";
 import "../../components/text-field/text-field.js";
-import "../../components/text-field/text-field.scss";
 
 /* ==========================
    센터 기본 정보 수정 모달 초기화

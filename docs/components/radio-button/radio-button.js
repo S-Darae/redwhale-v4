@@ -1,2 +1,2 @@
 import "./create-radio-button.js";
-import "./radio-button.scss";
+import "./radio-button.css";

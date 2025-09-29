@@ -1,2 +1,2 @@
-import "./checkbox.scss";
+import "./checkbox.css";
 import "./create-checkbox";

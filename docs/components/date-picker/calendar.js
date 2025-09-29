@@ -1,4 +1,4 @@
-import "./date-picker.scss";
+import "./date-picker.css";
 import { parseLocalDate, todayLocal } from "./utils/date-utils.js";
 
 /**

@@ -2,7 +2,7 @@ import "../../components/button/button.js";
 import "../../components/sidebar/sidebar.js";
 import "../../components/tooltip/tooltip.js";
 import "../../pages/common/main-menu.js";
-import "./center-home.scss";
+import "./center-home.css";
 
 /* ==========================
    📌 헤더 날짜 표시

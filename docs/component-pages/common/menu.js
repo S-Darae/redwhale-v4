@@ -1,4 +1,4 @@
-import "./menu.scss";
+import "./menu.css";
 
 document.addEventListener("DOMContentLoaded", () => {
   fetch("/component-pages/common/menu.html")

@@ -1,1 +1,1 @@
-import "./icon.scss";
+import "./icon.css";

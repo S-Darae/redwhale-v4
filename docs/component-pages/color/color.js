@@ -1,6 +1,6 @@
-import "./color.scss";
-import "../common/top-button.scss";
-import "../../components/feedback/toast.scss";
+import "../../components/feedback/toast.css";
+import "../common/top-button.css";
+import "./color.css";
 
 const colorChips = document.querySelectorAll(".color-chip");
 

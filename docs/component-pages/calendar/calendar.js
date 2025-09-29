@@ -2,8 +2,8 @@ import "../../components/button/button.js";
 import FilterCalendar from "../../components/date-filter/filter-calendar.js";
 import { createDateField } from "../../components/date-picker/create-date-field.js";
 import "../../components/tab/tab.js";
-import "../../components/text-field/text-field.scss";
-import "./calendar.scss";
+import "../../components/text-field/text-field.css";
+import "./calendar.css";
 
 /* ==========================
    캘린더

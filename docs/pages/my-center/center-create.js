@@ -1,7 +1,7 @@
 import "../../components/button/button.js";
 import "../../components/tooltip/tooltip.js";
 import "./center-create-field.js";
-import "./center-create.scss";
+import "./center-create.css";
 
 /* ==========================
    뒤로 가기 (나가기 버튼, 취소 버튼)

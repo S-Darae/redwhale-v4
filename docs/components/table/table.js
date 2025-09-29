@@ -1,4 +1,4 @@
-import "./table.scss";
+import "./table.css";
 
 document.addEventListener("DOMContentLoaded", () => {
   // ==========================

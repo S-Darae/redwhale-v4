@@ -3,7 +3,7 @@ import { initializeDropdowns } from "../../components/dropdown/dropdown-init.js"
 import { createTextField } from "../../components/text-field/create-text-field.js";
 import "../../components/text-field/tel-format.js";
 import "../../components/text-field/text-field.js";
-import "./text-field.scss";
+import "./text-field.css";
 
 /* ==========================
    헬퍼 함수

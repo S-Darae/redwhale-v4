@@ -1,13 +1,13 @@
 import { loadCenterBasicInfoModal } from "./center-basic-info-edit.js";
 import "./center-setting-menu.js";
-import "./settings.scss";
+import "./settings.css";
 
 import "../../components/button/button.js";
 import "../../components/tooltip/tooltip.js";
 import "../../pages/common/main-menu.js";
 
 import { createToggle } from "../../components/toggle/create-toggle.js";
-import "../../components/toggle/toggle.scss";
+import "../../components/toggle/toggle.css";
 
 /* ==========================
    📌 초기화: 센터 설정 페이지

@@ -4,11 +4,11 @@
 import "../../pages/common/main-menu.js";
 import { loadCenterBasicInfoModal } from "./center-basic-info-edit.js";
 import "./center-setting-menu.js";
-import "./notice.scss";
+import "./notice.css";
 
 import "../../components/button/button.js";
+import "../../components/dropdown/dropdown.css";
 import "../../components/dropdown/dropdown.js";
-import "../../components/dropdown/dropdown.scss";
 import "../../components/sidebar/sidebar.js";
 import "../../components/tooltip/tooltip.js";
 

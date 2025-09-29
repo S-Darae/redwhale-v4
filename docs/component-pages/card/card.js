@@ -1,9 +1,9 @@
-import "../../components/card/class-card.scss";
+import "../../components/card/class-card.css";
 import { createClassCard } from "../../components/card/create-class-card.js";
 import { createMembershipCard } from "../../components/card/create-membership-card.js";
-import "../../components/card/membership-card.scss";
+import "../../components/card/membership-card.css";
 import "../../components/card/popover-common.js";
-import "./card.scss";
+import "./card.css";
 
 /* ==========================
    회원권 카드 데이터

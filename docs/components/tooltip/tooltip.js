@@ -1,4 +1,4 @@
-import "./tooltip.scss";
+import "./tooltip.css";
 
 /* ==========================
    Tooltip 초기화 스크립트

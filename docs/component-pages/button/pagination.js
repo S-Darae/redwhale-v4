@@ -1,5 +1,5 @@
 import { createPagination } from "../../components/button/create-pagination.js";
-import "./pagination.scss";
+import "./pagination.css";
 
 document.addEventListener("DOMContentLoaded", () => {
   document

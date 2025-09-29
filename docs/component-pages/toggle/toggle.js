@@ -1,6 +1,6 @@
 import { createToggle } from "../../components/toggle/create-toggle.js";
-import "../../components/toggle/toggle.scss";
-import "./toggle.scss";
+import "../../components/toggle/toggle.css";
+import "./toggle.css";
 
 function addToggle(containerId, options) {
   const container = document.getElementById(containerId);

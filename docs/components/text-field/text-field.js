@@ -1,6 +1,6 @@
-import "../tooltip/tooltip.scss";
+import "../tooltip/tooltip.css";
 import "./create-text-field.js";
-import "./text-field.scss";
+import "./text-field.css";
 
 document.addEventListener("DOMContentLoaded", function () {
   // 페이지 로드 후 초기화 실행

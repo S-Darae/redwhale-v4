@@ -1,5 +1,5 @@
 import Calendar from "./calendar.js";
-import "./date-picker.scss";
+import "./date-picker.css";
 import { parseLocalDate, todayLocal } from "./utils/date-utils.js";
 
 // 📌 현재 열려 있는 캘린더 추적용 (전역 변수)

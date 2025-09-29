@@ -1,8 +1,8 @@
 import "../../components/sidebar/sidebar.js";
 import { createTextField } from "../../components/text-field/create-text-field.js";
+import "../../components/text-field/text-field.css";
 import "../../components/text-field/text-field.js";
-import "../../components/text-field/text-field.scss";
-import "./sidebar.scss";
+import "./sidebar.css";
 
 document.querySelector("#sidebar-field").innerHTML = createTextField({
   id: "form-field-test",

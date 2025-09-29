@@ -4,7 +4,7 @@
    ✅ 기능
    - 토글 스위치(checkbox 기반)를 HTML 문자열로 생성
    - 라벨 포함 여부, 크기, variant, 초기 상태 등을 옵션으로 제어
-   - SCSS: toggle.scss와 함께 사용
+   -.css: toggle.css와 함께 사용
    
    ✅ 사용 예시
    container.innerHTML = createToggle({

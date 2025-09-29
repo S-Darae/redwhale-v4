@@ -1,4 +1,4 @@
-import "../date-picker/date-picker.scss";
+import "../date-picker/date-picker.css";
 
 export default class FilterCalendarCore {
   constructor({ mode = "range" } = {}) {

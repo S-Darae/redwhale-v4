@@ -1,1 +1,1 @@
-import "./shadow.scss";
+import "./shadow.css";

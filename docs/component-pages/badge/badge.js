@@ -1,1 +1,1 @@
-import "./badge.scss";
+import "./badge.css";

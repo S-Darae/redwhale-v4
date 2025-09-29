@@ -1,5 +1,5 @@
 import "../button/button";
-import "./toast.scss";
+import "./toast.css";
 
 /**
  * 토스트(Toast) 메시지를 화면에 표시

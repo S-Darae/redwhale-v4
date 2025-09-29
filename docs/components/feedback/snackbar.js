@@ -1,5 +1,5 @@
 import "../button/button";
-import "./snackbar.scss";
+import "./snackbar.css";
 
 /**
  * 스낵바 표시 함수

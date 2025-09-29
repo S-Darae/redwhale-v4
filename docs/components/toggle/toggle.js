@@ -1,2 +1,2 @@
 import "./create-toggle.js";
-import "./toggle.scss";
+import "./toggle.css";

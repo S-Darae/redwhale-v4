@@ -1,6 +1,6 @@
-import "../../components/checkbox/checkbox.scss";
+import "../../components/checkbox/checkbox.css";
 import { createCheckbox } from "../../components/checkbox/create-checkbox.js";
-import "./checkbox.scss";
+import "./checkbox.css";
 
 // Helper 함수
 function addCheckbox(containerId, options) {

@@ -1,4 +1,4 @@
-import "./tab.scss";
+import "./tab.css";
 
 document.addEventListener("DOMContentLoaded", () => {
   document.querySelectorAll(".tab-set").forEach((tabSet) => {

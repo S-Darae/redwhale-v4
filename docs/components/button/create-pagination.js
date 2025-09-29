@@ -1,5 +1,5 @@
-import "./button.scss";
-import "./pagination.scss";
+import "./button.css";
+import "./pagination.css";
 
 /**
  * Pagination 생성 함수 (5개 버튼 + ... 양식 고정)

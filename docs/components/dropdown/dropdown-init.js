@@ -265,7 +265,7 @@ function positionMenuNearToggle(toggle, menu) {
 
   menu.style.position = "absolute";
 
-  // variant 구분 - tailing-select 은 SCSS에서 지정한 너비/정렬 유지
+  // variant 구분 - tailing-select 은.css에서 지정한 너비/정렬 유지
   if (!toggle.closest(".text-field--tailing-select")) {
     menu.style.left = `0`;
   }

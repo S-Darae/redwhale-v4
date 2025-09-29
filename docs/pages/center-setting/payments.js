@@ -4,7 +4,7 @@
 import "../../pages/common/main-menu.js";
 import { loadCenterBasicInfoModal } from "./center-basic-info-edit.js";
 import "./center-setting-menu.js";
-import "./payments.scss";
+import "./payments.css";
 
 import "../../components/badge/badge.js";
 import "../../components/button/button.js";
@@ -13,21 +13,21 @@ import "../../components/sidebar/sidebar.js";
 import "../../components/tooltip/tooltip.js";
 
 import { createTextField } from "../../components/text-field/create-text-field.js";
+import "../../components/text-field/text-field.css";
 import { initializeTextFields } from "../../components/text-field/text-field.js";
-import "../../components/text-field/text-field.scss";
 
 import { createDropdownMenu } from "../../components/dropdown/create-dropdown.js";
 import { initializeDropdowns } from "../../components/dropdown/dropdown-init.js";
-import "../../components/dropdown/dropdown.scss";
+import "../../components/dropdown/dropdown.css";
 
 import { createPagination } from "../../components/button/create-pagination.js";
-import "../../components/button/pagination.scss";
+import "../../components/button/pagination.css";
 
 import { createRadioButton } from "../../components/radio-button/create-radio-button.js";
-import "../../components/radio-button/radio-button.scss";
+import "../../components/radio-button/radio-button.css";
 
+import "../../components/modal/modal.css";
 import modal from "../../components/modal/modal.js";
-import "../../components/modal/modal.scss";
 
 /* ==========================
    초기화: 센터 설정 페이지

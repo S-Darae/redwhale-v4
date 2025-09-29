@@ -1,5 +1,5 @@
 @use "../../foundation/typography" as *;
-@use "../../components/badge/badge.scss" as *;
+@use "../../components/badge/badge.css" as *;
 
 @mixin badge-style {
   @include typography(caption1, medium);

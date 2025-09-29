@@ -1,5 +1,5 @@
-import "../button/button.scss";
-import "./slide-button.scss";
+import "../button/button.css";
+import "./slide-button.css";
 
 /**
  * 슬라이드 버튼 컴포넌트 생성 함수

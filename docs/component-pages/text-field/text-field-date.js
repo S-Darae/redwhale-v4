@@ -1,7 +1,7 @@
 import { createDateField } from "../../components/date-picker/create-date-field.js";
+import "../../components/text-field/text-field.css";
 import "../../components/text-field/text-field.js";
-import "../../components/text-field/text-field.scss";
-import "./text-field.scss";
+import "./text-field.css";
 
 /* ==========================
    공통 헬퍼

@@ -1,5 +1,5 @@
-import "../button/button.scss";
-import "./modal.scss";
+import "../button/button.css";
+import "./modal.css";
 
 /**
  * Modal Class

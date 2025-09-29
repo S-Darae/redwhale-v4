@@ -7,7 +7,7 @@ import "../../components/tab/tab.js";
 import { initPhoneInputs } from "../../components/text-field/tel-format.js";
 import "../../components/text-field/text-field.js";
 import "../../components/tooltip/tooltip.js";
-import "./main-menu.scss";
+import "./main-menu.css";
 
 /* ==========================
    📌 공통 유틸 함수

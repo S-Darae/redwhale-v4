@@ -1,8 +1,8 @@
 import "../../components/modal/modal.js";
 import { createTextField } from "../../components/text-field/create-text-field.js";
+import "../../components/text-field/text-field.css";
 import "../../components/text-field/text-field.js";
-import "../../components/text-field/text-field.scss";
-import "./modal.scss";
+import "./modal.css";
 
 document.querySelector("#modal-field").innerHTML = createTextField({
   id: "form-field-test",

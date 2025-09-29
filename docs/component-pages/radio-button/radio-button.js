@@ -1,6 +1,6 @@
 import { createRadioButton } from "../../components/radio-button/create-radio-button.js";
-import "../../components/radio-button/radio-button.scss";
-import "./radio-button.scss";
+import "../../components/radio-button/radio-button.css";
+import "./radio-button.css";
 
 // Helper 함수
 function addRadio(containerId, options) {

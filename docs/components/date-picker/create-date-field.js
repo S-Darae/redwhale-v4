@@ -1,8 +1,8 @@
 import FilterCalendar from "../date-filter/filter-calendar.js";
 import "./calendar.js";
 import Calendar from "./calendar.js"; // calendar-only 용
+import "./date-picker.css";
 import DatePicker from "./date-picker.js";
-import "./date-picker.scss";
 import DateRangePicker from "./date-range-picker.js";
 import { parseLocalDate } from "./utils/date-utils.js";
 

@@ -1,12 +1,12 @@
-import "../../components/checkbox/checkbox.scss";
+import "../../components/checkbox/checkbox.css";
 import { createCheckbox } from "../../components/checkbox/create-checkbox.js";
 import { createTextField } from "../../components/text-field/create-text-field.js";
 import {
   adjustInputPadding,
   initializeTextFields,
 } from "../../components/text-field/text-field.js";
-import "../../components/text-field/text-field.scss";
-import "./dropdown.scss";
+import "../../components/text-field/text-field.css";
+import "./dropdown.css";
 
 /* ==========================
    드롭다운 사이즈 → 체크박스 사이즈 매핑

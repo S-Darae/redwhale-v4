@@ -4,7 +4,7 @@
 import "../../pages/common/main-menu.js";
 import { loadCenterBasicInfoModal } from "./center-basic-info-edit.js";
 import "./center-setting-menu.js";
-import "./staff.scss";
+import "./staff.css";
 
 import "../../components/badge/badge.js";
 import "../../components/button/button.js";
@@ -15,15 +15,15 @@ import "../../components/tooltip/tooltip.js";
 
 import "../../components/text-field/create-text-field.js";
 import { initPhoneInputs } from "../../components/text-field/tel-format.js";
+import "../../components/text-field/text-field.css";
 import "../../components/text-field/text-field.js";
-import "../../components/text-field/text-field.scss";
 
 import { createDropdownMenu } from "../../components/dropdown/create-dropdown.js";
 import { initializeDropdowns } from "../../components/dropdown/dropdown-init.js";
-import "../../components/dropdown/dropdown.scss";
+import "../../components/dropdown/dropdown.css";
 
 import { createPagination } from "../../components/button/create-pagination.js";
-import "../../components/button/pagination.scss";
+import "../../components/button/pagination.css";
 
 import { createToggle } from "../../components/toggle/create-toggle.js";
 

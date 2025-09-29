@@ -1,5 +1,5 @@
 import { createSlideButtons } from "../../components/button/create-slide-button.js";
-import "./slide-button.scss";
+import "./slide-button.css";
 
 document
   .getElementById("slide-1")

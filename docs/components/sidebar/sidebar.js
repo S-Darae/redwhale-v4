@@ -1,7 +1,7 @@
 import "../../components/button/button.js";
 import "../tooltip/tooltip.js";
 import "./sidebar-init.js";
-import "./sidebar.scss";
+import "./sidebar.css";
 
 /**
  * Sidebar 컴포넌트

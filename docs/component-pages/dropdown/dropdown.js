@@ -1,8 +1,8 @@
 import { createDropdownMenu } from "../../components/dropdown/create-dropdown.js";
 import { initializeDropdowns } from "../../components/dropdown/dropdown-init.js";
 import { initializeDropdownSearch } from "../../components/dropdown/dropdown-search.js";
-import "../../components/dropdown/dropdown.scss";
-import "./dropdown.scss";
+import "../../components/dropdown/dropdown.css";
+import "./dropdown.css";
 
 document.addEventListener("DOMContentLoaded", () => {
   /* ==========================

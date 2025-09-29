@@ -1,5 +1,5 @@
 import { createSlideButtons } from "../button/create-slide-button.js";
-import "./carousel.scss";
+import "./carousel.css";
 
 /**
  * Carousel 컴포넌트

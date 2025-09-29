@@ -1,6 +1,6 @@
-import "../../components/radio-button/radio-button.scss";
-import "../date-picker/date-picker.scss";
-import "../date-picker/filter-calendar.scss";
+import "../../components/radio-button/radio-button.css";
+import "../date-picker/date-picker.css";
+import "../date-picker/filter-calendar.css";
 import { createRadioButton } from "../radio-button/create-radio-button.js";
 import FilterCalendarCore from "./filter-calendar-core.js";
 
