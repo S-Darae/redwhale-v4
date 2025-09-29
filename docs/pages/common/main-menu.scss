@@ -147,12 +147,12 @@ menu {
 
   &__center-avatar {
     @extend %main-menu__avatar-base;
-    background-image: url("/assets/images/center-1.jpg");
+    background-image: url("./assets/images/center-1.jpg");
   }
 
   &__my-avatar {
     @extend %main-menu__avatar-base;
-    background-image: url("/assets/images/user.jpg");
+    background-image: url("./assets/images/user.jpg");
   }
 
   /* ==========================
@@ -273,10 +273,10 @@ menu {
           flex-shrink: 0;
 
           &.avatar-1 {
-            background-image: url("/assets/images/center-1.jpg");
+            background-image: url("./assets/images/center-1.jpg");
           }
           &.avatar-2 {
-            background-image: url("/assets/images/center-logo-1.png");
+            background-image: url("./assets/images/center-logo-1.png");
           }
         }
 
@@ -377,7 +377,7 @@ menu {
             width: 40px;
             height: 40px;
             border: 1px solid var(--gray-250);
-            background-image: url("/assets/images/user.jpg");
+            background-image: url("./assets/images/user.jpg");
             background-size: cover;
             background-position: center;
             background-repeat: no-repeat;
@@ -587,10 +587,10 @@ menu {
         flex-shrink: 0;
 
         &.avatar-1 {
-          background-image: url("/assets/images/center-1.jpg");
+          background-image: url("./assets/images/center-1.jpg");
         }
         &.avatar-2 {
-          background-image: url("/assets/images/center-logo-1.png");
+          background-image: url("./assets/images/center-logo-1.png");
         }
       }
 
@@ -835,4 +835,3 @@ menu {
 //     gap: 10px;
 //   }
 // }
-

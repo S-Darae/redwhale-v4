@@ -245,7 +245,7 @@ body {
             height: 34px;
             background-color: gray;
             border-radius: 40%;
-            background-image: url("/assets/images/user.jpg");
+            background-image: url("./assets/images/user.jpg");
             border: 1px solid var(--gray-250);
             background-size: cover;
             background-position: center;
@@ -351,7 +351,7 @@ body {
             width: 36px;
             height: 36px;
             border: 1px solid var(--gray-250);
-            background-image: url("/assets/images/center-1.jpg");
+            background-image: url("./assets/images/center-1.jpg");
             background-size: cover;
             background-position: center;
             background-repeat: no-repeat;
@@ -514,7 +514,7 @@ body {
               top: 10px;
               width: 14px;
               height: 14px;
-              mask-image: url("/assets/icons/icon--arrow-right.svg");
+              mask-image: url("./assets/icons/icon--arrow-right.svg");
               mask-repeat: no-repeat;
               mask-position: center;
               mask-size: contain;
@@ -547,7 +547,7 @@ body {
                 content: "";
                 width: 18px;
                 height: 18px;
-                mask-image: url("/assets/icons/icon--check.svg");
+                mask-image: url("./assets/icons/icon--check.svg");
                 mask-repeat: no-repeat;
                 mask-position: center;
                 mask-size: contain;
@@ -957,7 +957,7 @@ body {
                 height: 20px;
                 border: 1px solid var(--gray-250);
                 border-radius: 40%;
-                background: url("/assets/images/user.jpg") center/cover
+                background: url("./assets/images/user.jpg") center/cover
                   no-repeat;
               }
 

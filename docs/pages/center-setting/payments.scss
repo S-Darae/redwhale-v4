@@ -426,14 +426,14 @@
     &.paycard--hana {
       .paycard-img {
         &:after {
-          background-image: url("/assets/icons/card/icon--bank--hana.svg");
+          background-image: url("./assets/icons/card/icon--bank--hana.svg");
         }
       }
     }
     &.paycard--hd {
       .paycard-img {
         &:after {
-          background-image: url("/assets/icons/card/icon--card--hd.svg");
+          background-image: url("./assets/icons/card/icon--card--hd.svg");
         }
       }
     }

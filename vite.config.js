@@ -3,7 +3,13 @@ import { defineConfig } from "vite";
 
 export default defineConfig({
   base: "/redwhale-v4/",
-
+  build: {
+    rollupOptions: {
+      input: {
+        main: path.resolve(__dirname, "index.html"), // 기본 엔트리
+      },
+    },
+  },
   css: {
     preprocessorOptions: {
       scss: {

@@ -337,7 +337,7 @@
                 color: var(--state-success-600);
 
                 &::before {
-                  mask-image: url("/assets/icons/icon--check.svg");
+                  mask-image: url("./assets/icons/icon--check.svg");
                   background-color: var(--state-success-500);
                 }
               }
@@ -346,7 +346,7 @@
                 color: var(--state-caution-600);
 
                 &::before {
-                  mask-image: url("/assets/icons/icon--x.svg");
+                  mask-image: url("./assets/icons/icon--x.svg");
                   background-color: var(--state-caution-500);
                 }
               }
@@ -426,7 +426,7 @@
             display: inline-block;
             width: 14px;
             height: 14px;
-            mask-image: url("/assets/icons/icon--folder-fill.svg");
+            mask-image: url("./assets/icons/icon--folder-fill.svg");
             mask-repeat: no-repeat;
             mask-position: center;
             mask-size: contain;
